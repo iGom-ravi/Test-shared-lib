@@ -4,7 +4,7 @@ import com.*;
 def info(String name){
   TestSrc test = new TestSrc();
   println(test)
-  test.displayName(name)
+  test.displayNameaaa(name)
   println("Hello  ${name}")
   
 }
