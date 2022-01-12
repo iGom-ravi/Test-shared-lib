@@ -5,6 +5,6 @@ public TestSrc(){
 println("In contructor....");
 }
 def displayName(String name){
-  println("From test ${name}")
+  System.out.println("From test ${name}")
 }
 }
