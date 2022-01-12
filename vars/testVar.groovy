@@ -1,8 +1,8 @@
-import Test;
+import com.TestSrc;
 
 
 def info(String name){
-  Test test = new Test();
+  TestSrc test = new TestSrc();
   println(test)
   test.displayName(name)
   println("Hello  ${name}")
