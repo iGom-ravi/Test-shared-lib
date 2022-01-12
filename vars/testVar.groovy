@@ -1,4 +1,4 @@
-import com.TestSrc;
+import com.*;
 
 
 def info(String name){
