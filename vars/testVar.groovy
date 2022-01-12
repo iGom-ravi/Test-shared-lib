@@ -2,7 +2,8 @@ import Test;
 
 
 def info(String name){
-  def test = new Test();
-  println("Hello  ${name}")
+  Test test = new Test();
   test.PrintName(name)
+  println("Hello  ${name}")
+  
 }
