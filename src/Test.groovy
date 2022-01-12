@@ -1,6 +1,6 @@
 public class Test{
 public Test(){}
-public void PrintName(String name){
+public void displayName(String name){
   println("From test ${name}")
 }
 }
