@@ -4,6 +4,6 @@ public class TestSrc{
   public TestSrc(){
     println("IN const")
   }
-  public string PrintName(String name){
+  public String PrintName(String name){
     println("From the test ${name}")
 }
