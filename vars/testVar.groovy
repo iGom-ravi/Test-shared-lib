@@ -1,3 +1,7 @@
-def info(String name){
-  println("Hello  ${name}")
+import com.*;
+
+  def info(String name){
+    TestSrc test= new TestSrc();
+    println(test.displayName(name))
+     println("Hello  ${name}")
 }
