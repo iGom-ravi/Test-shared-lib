@@ -7,3 +7,4 @@ public class TestSrc{
   public String PrintName(String name){
     println("From the test ${name}")
 }
+}
