@@ -1,6 +1,9 @@
 package com;
 
 public class TestSrc{
-  public void PrintName(String name){
+  public TestSrc(){
+    println("IN const")
+  }
+  public string PrintName(String name){
     println("From the test ${name}")
 }
